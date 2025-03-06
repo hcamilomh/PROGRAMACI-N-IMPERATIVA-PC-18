@@ -18,4 +18,5 @@ promedio = sumatoria / cantidadelementos
 # FINALMENTE IMPRIMIMOS EL PROMEDIO
 print(f"El promedio de las notas obtenidas por los estudiantes en el parcial es: {promedio}")
 #EL RESULTADO SERÍA
+
 El promedio de las notas obtenidas por los estudiantes en el parcial es: 2.225
