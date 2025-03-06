@@ -20,4 +20,6 @@ print(f"El promedio de las notas obtenidas por los estudiantes en el parcial es:
 
 
 #EL RESULTADO SERÍA
+
+
 El promedio de las notas obtenidas por los estudiantes en el parcial es: 2.225
